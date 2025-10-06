@@ -1,6 +1,6 @@
 # Privacy Policy for BudgetOrbit
 
-**Choose your language / 選擇您的語言:**
+**Choose your language:**
 [English](#english) | [Español](#español) | [Français](#français) | [日本語 (Japanese)](#日本語-japanese) | [한국어 (Korean)](#한국어-korean) | [Deutsch](#deutsch) | [Português (Brasil)](#português-brasil) | [繁體中文 (Traditional Chinese)](#繁體中文-traditional-chinese)
 
 ---
