@@ -25,18 +25,18 @@ is stored **locally and exclusively on your device(s)** using Apple's secure Swi
 
 To provide our service, we handle a minimal amount of data:
 
-### a) Information from "Sign in with Apple"
+#### a) Information from "Sign in with Apple"
 
 We use Apple's official "Sign in with Apple" service for user authentication. When you sign in, we receive a unique, anonymous User ID provided by Apple. We may also request your name and email address to personalize your experience, subject to your consent during the sign-in process.
 
 - **Apple User ID:** This is stored securely in your device's Keychain to keep you logged in.
 - **Name and Email:** If you choose to share them, this information is used solely within the app and is not shared with any third parties.
 
-### b) Non-Personal Information for App Functionality
+#### b) Non-Personal Information for App Functionality
 
 To provide real-time currency exchange rates, our app communicates with the publicly available API at `api.frankfurter.dev`. This process is anonymous and does not involve sending any of your personal or financial data to the service.
 
-### c) Analytics
+#### c) Analytics
 
 BudgetOrbit **does not** use any third-party analytics or tracking tools. We do not collect data about your usage patterns or behavior within the app.
 
