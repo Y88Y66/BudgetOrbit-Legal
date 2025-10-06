@@ -56,4 +56,4 @@ We reserve the right to modify these Terms at any time. We will notify you of an
 ## 10. Contact Us
 
 If you have any questions or concerns about these Terms, please contact us at:
-**[Your Support Email Here]**
+**[yomaxdev@gmail.com]**
