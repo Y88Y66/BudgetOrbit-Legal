@@ -74,5 +74,48 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 If you have any questions about this Privacy Policy, please contact us at:
 **[yomaxdev@gmail.com]**
 
+---
+
+## Español
+**Última actualización:** [Mes Día, Año]
+
+(Por favor, pegue aquí la versión en español del contenido de su política.)
 
 ---
+
+## Français
+**Dernière mise à jour:** [Mois Jour, Année]
+
+(Veuillez coller ici la version française du contenu de votre politique.)
+
+---
+
+## 日本語 (Japanese)
+**最終更新日:** [年 月 日]
+
+(ここにポリシー内容の日本語版を貼り付けてください。)
+
+---
+
+## 한국어 (Korean)
+**최종 업데이트:** [년 월 일]
+
+(여기에 정책 내용의 한국어 버전을 붙여넣어 주세요.)
+
+---
+
+## Deutsch
+**Zuletzt aktualisiert:** [Monat Tag, Jahr]
+
+(Bitte fügen Sie hier die deutsche Version Ihres Richtlinientextes ein.)
+
+---
+
+## Português (Brasil)
+**Última atualização:** [Mês Dia, Ano]
+
+(Por favor, cole aqui a versão em português do Brasil do conteúdo da sua política.)
+
+---
+
+## 繁體中文 (Traditional Chinese)
