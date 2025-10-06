@@ -1,5 +1,10 @@
 # Terms of Use for BudgetOrbit
 
+**Choose your language:**
+[English](#english) | [Español](#español) | [Français](#français) | [日本語 (Japanese)](#日本語-japanese) | [한국어 (Korean)](#한국어-korean) | [Deutsch](#deutsch) | [Português (Brasil)](#português-brasil) | [繁體中文 (Traditional Chinese)](#繁體中文-traditional-chinese)
+
+
+## English
 **Last Updated:** October 5, 2025
 
 Welcome to BudgetOrbit. These Terms of Use ("Terms") govern your use of the BudgetOrbit mobile application (the "Service") provided by the developers of BudgetOrbit ("we," "us," or "our").
