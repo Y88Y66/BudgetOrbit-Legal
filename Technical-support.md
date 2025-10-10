@@ -1,4 +1,4 @@
-# BudgetOrbit Support & Legal
+# BudgetOrbit Support
 
 _Last updated: October 2025_
 
