@@ -56,7 +56,7 @@ This action is **irreversible** and will perform a comprehensive removal of:
 
 ### 6. Children's Privacy
 
-BudgetOrbit is not intended for use by children under the age of 13 (or the equivalent minimum age in your jurisdiction). We do not knowingly collect any personal information from children.
+BudgetOrbit is not intended for use by children under the age of 3 (or the equivalent minimum age in your jurisdiction). We do not knowingly collect any personal information from children.
 
 ### 7. Changes to This Privacy Policy
 
