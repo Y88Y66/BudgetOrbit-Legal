@@ -1,33 +1,43 @@
-Here is a polished English version suitable for your “Technical Support & Legal” page (linked from Support URL). It is concise, formal, and includes only the email contact:
+# BudgetOrbit Support & Legal
 
-⸻
+## 📖 Table of Contents  
+- [Service Overview](#service-overview)  
+- [Terms & Privacy](#terms--privacy)  
+- [User Responsibilities](#user-responsibilities)  
+- [Support & Feedback](#support--feedback)  
+- [Updates & Changes](#updates--changes)  
 
-BudgetOrbit – Support & Legal
+---
 
-1. Service Overview
+## 1. Service Overview  
+BudgetOrbit is a personal finance app that runs **entirely on your device**.  
+All financial data — accounts, transactions, budgets — are stored locally.  
+We **do not upload** your data to any cloud or third-party servers.
 
-BudgetOrbit is a personal finance app that runs entirely on your device. All financial data—accounts, transactions, budgets—are stored locally. We do not upload your data to any cloud or third-party servers.
+---
 
-2. Terms of Use & Privacy
+## 2. Terms & Privacy  
+By using BudgetOrbit, you agree to our [Terms of Use](./terms-of-use.md) and [Privacy Policy](./privacy-policy.md).  
+- You retain full ownership and control of your data.  
+- We will never share, sell, or expose your data without your explicit consent.  
+- If we revise these terms, you will be notified and given a chance to review.
 
-By using this app, you agree to our [Terms of Use] and [Privacy Policy].
-	•	You retain full ownership and control of your data.
-	•	We will never share, sell, or expose your data without your explicit consent.
-	•	We may update these terms; in such cases, we will notify you for review.
+---
 
-3. User Responsibilities
+## 3. User Responsibilities  
+You are responsible for device security and backing up your data.  
+Protect your login credentials and control device access.  
+We are not liable for data loss or exposure resulting from theft or unauthorized access to your device.
 
-You are responsible for device security and data backups. Protecting your login credentials and device access is your responsibility. We are not liable for data loss or exposure due to device theft or unauthorized access.
+---
 
-4. Support & Feedback
+## 4. Support & Feedback  
+For technical support or feedback, please email:  
+**yomaxdev@gmail.com**
 
-For technical support or feedback, please email:
-yomaxdev@gmail.com
+---
 
-5. Updates & Changes
-
-We may release app updates, bug fixes, or new features over time. All versions remain subject to the same terms and privacy policy. If we make substantial changes to the policy or terms, you will be notified to review and consent before applying them.
-
-⸻
-
-You can embed this text in a HTML page and use that page URL as your Technical Support URL in the App Store Connect form.
+## 5. Updates & Changes  
+We may release updates, bug fixes, or new features over time.  
+All versions of the app are governed by the same Terms of Use and Privacy Policy.  
+If we make significant changes to these policies, you will be notified to review and consent before they take effect.
