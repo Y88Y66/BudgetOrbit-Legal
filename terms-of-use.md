@@ -56,6 +56,3 @@ If you have any questions or concerns about these Terms, please contact us at:
 
 ---
 
----
-
-## 繁體中文 (Traditional Chinese)
