@@ -1,11 +1,5 @@
 # BudgetOrbit Support & Legal
 
-## 📖 Table of Contents  
-- [Service Overview](#service-overview)  
-- [Terms & Privacy](#terms--privacy)  
-- [User Responsibilities](#user-responsibilities)  
-- [Support & Feedback](#support--feedback)  
-- [Updates & Changes](#updates--changes)  
 
 ---
 
