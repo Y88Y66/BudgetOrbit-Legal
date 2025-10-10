@@ -1,4 +1,4 @@
-# BudgetOrbit Support & Legal
+# BudgetOrbit Support
 
 
 ---
