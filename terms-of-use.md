@@ -1,5 +1,6 @@
 # Terms of Use for BudgetOrbit
----
+
+
 **Last Updated:** October 5, 2025
 
 Welcome to BudgetOrbit. These Terms of Use ("Terms") govern your use of the BudgetOrbit mobile application (the "Service") provided by the developers of BudgetOrbit ("we," "us," or "our").
